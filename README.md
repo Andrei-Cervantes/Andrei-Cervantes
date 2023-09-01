@@ -16,4 +16,4 @@ Skills: Java | HTML | CSS | JavaScript | Python | C# | Unity
 
 ![Profile views](https://gpvc.arturio.dev/Andrei-Cervantes)  
 
-[![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrei-Cervantes)](https://github.com/anuraghazra/github-readme-stats)
+![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrei-Cervantes&theme=shadow_blue&show_icons=true)
