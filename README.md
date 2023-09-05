@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, my name is Andrei!</h2>
 <h3 align="center">I am an aspiring full-stack developer.</h3>
 
-<image align="right" alt="volleyball" width="400" src="https://github.com/Andrei-Cervantes/Andrei-Cervantes/assets/140973981/bae8f86c-c34a-4649-9641-519c4eec99e3">
+<image align="right" alt="volleyball" width="400" src="https://64.media.tumblr.com/ddad49e77697c3a9255744bdc4e6cba3/06d8d9683cd5d062-65/s1280x1920/3b044af355381f1e02843b71cd52e4d73be20699.gifv">
 
 I am currently a fresh graduate of computer engineering from our sinta, Polytechnic University of the Philippines. Seeing great ideas and concepts come alive and turn into reality is what I love most about programming. 
 
