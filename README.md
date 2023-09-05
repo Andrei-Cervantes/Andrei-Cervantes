@@ -1,14 +1,43 @@
-### Hi there 👋, my name is Andrei!
-#### I am an aspiring full-stack developer.
-I am currently a fresh graduate of computer engineering from our sinta, Polytechnic University of the Philippines. Seeing great ideas and concepts come alive and turn into reality is what I love most about this profession. 
+<h2 align="center">Hi there 👋, my name is Andrei!</h2>
+<h3 align="center">I am an aspiring full-stack developer.</h3>
 
-Skills: Java | HTML | CSS | JavaScript | Python | C# | Unity
+<image align="right" alt="volleyball" width="400" src="https://github.com/Andrei-Cervantes/Andrei-Cervantes/assets/140973981/bae8f86c-c34a-4649-9641-519c4eec99e3">
+
+I am currently a fresh graduate of computer engineering from our sinta, Polytechnic University of the Philippines. Seeing great ideas and concepts come alive and turn into reality is what I love most about programming. 
 
 - 🌱 I’m currently learning Java, making my way to full-stack web development. 
-- ⚡ Fun fact: I love playing Dota 2, Valorant, and I also do outdoor sports - volleyball, and basketball. 
+- ⚡ Fun fact: I have an identical twin. I also love playing volleyball!
 
-![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrei-Cervantes&hide=issues&theme=shadow_blue&show_icons=true)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Cervantes&theme=shadow_blue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrei-cervantes&theme=shadow_blue&show_icons=true&locale=en&layout=compact" alt="andrei-cervantes" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Andrei-Cervantes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/andrei-cervantes-b08166286//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Andreicrvnts)  
+<h3 align="right">Connect with me:</h3>
+<p align="right">
+<a href="https://linkedin.com/in/andrei-cervantes-b08166286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrei-cervantes-b08166286" height="30" width="40" /></a>
+<a href="https://fb.com/andreicrvnts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andreicrvnts" height="30" width="40" /></a>
+<a href="https://instagram.com/andreicrvnts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andreicrvnts" height="30" width="40" /></a>
+</p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=andrei-cervantes&label=Profile%20views&color=0e75b6&style=flat" alt="andrei-cervantes" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=andrei-cervantes&hide=issues&theme=shadow_blue&show_icons=true&locale=en" alt="andrei-cervantes" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=andrei-cervantes&theme=shadow_blue" alt="andrei-cervantes" /></p>
