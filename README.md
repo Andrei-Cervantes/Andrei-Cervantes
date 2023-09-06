@@ -39,6 +39,5 @@ I am currently a fresh graduate of computer engineering from our sinta, Polytech
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=andrei-cervantes&label=Profile%20views&color=0e75b6&style=flat" alt="andrei-cervantes" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=andrei-cervantes&hide=issues&theme=shadow_blue&show_icons=true&locale=en" alt="andrei-cervantes" /></p>
-<p></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=andrei-cervantes&theme=shadow_blue" alt="andrei-cervantes" /></p>
