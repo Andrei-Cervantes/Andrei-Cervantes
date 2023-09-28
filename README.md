@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋, my name is Andrei!</h2>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=An+Aspiring+Full-Stack+Developer" alt="Typing SVG" /></a></h3>
+<h3 align="center">An Aspiring Full-Stack Developer</h3>
 
 <image align="right" alt="volleyball" width="400" src="https://64.media.tumblr.com/ddad49e77697c3a9255744bdc4e6cba3/06d8d9683cd5d062-65/s1280x1920/3b044af355381f1e02843b71cd52e4d73be20699.gifv">
 
