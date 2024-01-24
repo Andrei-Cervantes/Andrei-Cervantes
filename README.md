@@ -10,7 +10,7 @@ I am currently a fresh graduate of computer engineering from our sinta, Polytech
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,androidstudio,arduino,bootstrap,cs,css,html,figma,firebase,java,py,nodejs,php,postman,unity,vscode,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,androidstudio,arduino,bootstrap,cs,css,html,figma,firebase,java,py,nodejs,php,postman,unity,vscode,spring,mysql,mongodb,jquery,stackoverflow,&perline=7)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrei-cervantes&theme=shadow_blue&show_icons=true&locale=en&layout=compact" alt="andrei-cervantes" /></p>
 
