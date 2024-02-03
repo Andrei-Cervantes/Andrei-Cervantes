@@ -5,7 +5,7 @@
 
 I am currently a fresh graduate of computer engineering from our sinta, Polytechnic University of the Philippines. Seeing great ideas and concepts come alive and turn into reality is what I love most about programming. 
 
-- 🌱 I’m currently learning Java, making my way to full-stack web development. 
+- 🌱 I’m currently learning Java, JavaScript, and other frameworks making my way to full-stack web development. 
 - ⚡ Fun fact: I have an identical twin. I also love playing volleyball!
 
 <h3 align="left">Languages and Tools:</h3>
