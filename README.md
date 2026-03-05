@@ -11,7 +11,7 @@
 - I shortened **Gekkota** to **Gekk** to make it easier to say and a bit more unique.
 - I like the idea behind that character as well, being part of something big while staying more like a background builder.
 
-<br><hr><br>
+<hr>
 
 **My Experience so far...**
 
@@ -20,7 +20,7 @@
 - In some cases, I’ve also been responsible for setting up projects from scratch, which taught me how important good structure and planning are when starting development.
 - Each project has helped me improve my problem-solving skills and my approach to writing cleaner and more maintainable code.
 
-<br><hr><br>
+<hr>
 
 **Fun Facts about me:**
 
@@ -28,7 +28,7 @@
 - I'm not really a fan of first-person games—not because I dislike them, but because they tend to give me headaches.
 - I actually have a twin, so if you see me around... think twice.
 
-<br><hr><br>
+<hr>
 
 **Daily Progression and Streak**
 
